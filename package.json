@@ -22,7 +22,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.3",
     "mysql": "^2.18.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.4",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
